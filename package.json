@@ -1,0 +1,19 @@
+{
+  "name": "jslexicalanalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahansari868/jslexicalanalyzer.git"
+  },
+  "author": "Sarah Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahansari868/jslexicalanalyzer/issues"
+  },
+  "homepage": "https://github.com/sarahansari868/jslexicalanalyzer#readme"
+}
